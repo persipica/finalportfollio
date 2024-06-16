@@ -21,7 +21,7 @@ const Projects = () => {
             <h3 className="title">중간고사 프로젝트</h3>
             <p className="desc">
               중간고사때 발표하였던 프로젝트 입니다. html, css, bootstrap,
-              tailwindcss를 사용하여 제작하였습니다.
+              tailwindcss를 사용하여 제작하였습니다..
             </p>
             <a
               href="https://portfolio-ten-delta-88.vercel.app/project.html"
