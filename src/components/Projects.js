@@ -103,6 +103,29 @@ const Projects = () => {
               사이트 보기
             </a>
           </article>
+          <article className="projects__item p5">
+            <span className="num">05.</span>
+            <a
+              href="https://github.com/persipica/next-blog-2"
+              target="_blank"
+              className="img"
+              rel="noopener noreferrer"
+            >
+              <img src="img/nextjs.png" alt="finalexam"></img>
+            </a>
+            <h3 className="title">Next-blog</h3>
+            <p className="desc">
+              수업시간 진행했던 Next.js 실습 블로그 입니다.
+            </p>
+            <a
+              href="https://next-blog-2-yl5n.vercel.app/"
+              target="_blank"
+              className="site"
+              rel="noopener noreferrer"
+            >
+              사이트 보기
+            </a>
+          </article>
         </div>
       </div>
     </section>
