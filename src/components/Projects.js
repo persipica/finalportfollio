@@ -83,7 +83,7 @@ const Projects = () => {
           <article className="projects__item p4">
             <span className="num">04.</span>
             <a
-              href="https://github.com/persipica/webprogram-main"
+              href="https://github.com/persipica/finalportfollio"
               target="_blank"
               className="img"
               rel="noopener noreferrer"
@@ -95,7 +95,7 @@ const Projects = () => {
               중간과제였던 KHSportfollio를 react를 활용하여 다시만든 것 입니다.
             </p>
             <a
-              href="https://webprogram-main.vercel.app/"
+              href="https://finalportfollio.vercel.app/"
               target="_blank"
               className="site"
               rel="noopener noreferrer"

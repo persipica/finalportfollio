@@ -1,4 +1,5 @@
 import React from 'react'
+import Twittler from './Twittler'
 
 const footerText = [
   {
@@ -34,7 +35,7 @@ const Footer = () => {
             <div className="title">
               <a href="/">sign up</a>
             </div>
-            <p>회원가입을 하시면 댓글과 게시판 기능을 이용할 수 있습니다.</p>
+            <Twittler />
           </div>
           <div className="right">
             <h3>social</h3>

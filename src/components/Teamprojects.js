@@ -1,4 +1,5 @@
 import React from 'react'
+import Teammates from './Teammates'
 
 const Teamprojects = () => {
   return (
@@ -58,6 +59,9 @@ const Teamprojects = () => {
               사이트 보기
             </a>
           </article>
+        </div>
+        <div>
+          <Teammates />
         </div>
       </div>
     </section>
