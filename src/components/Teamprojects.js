@@ -38,7 +38,7 @@ const Teamprojects = () => {
           <article className="teamprojects__item p2">
             <span className="num">02.</span>
             <a
-              href="https://github.com/persipica/HCJDEMO"
+              href="https://github.com/persipica/Teamfinalproject"
               target="_blank"
               className="img"
               rel="noopener noreferrer"
@@ -51,7 +51,7 @@ const Teamprojects = () => {
               프로젝트입니다.
             </p>
             <a
-              href="https://hcjdemo-phi.vercel.app/"
+              href="https://teamfinalproject.vercel.app/"
               target="_blank"
               className="site"
               rel="noopener noreferrer"
