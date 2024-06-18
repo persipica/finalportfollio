@@ -43,7 +43,7 @@ const Teamprojects = () => {
               className="img"
               rel="noopener noreferrer"
             >
-              <img src="img/HCJDEMO.png" alt="HCJDEMO"></img>
+              <img src="img/teamproject2.png" alt="HCJDEMO"></img>
             </a>
             <h3 className="title">기말고사 프로젝트</h3>
             <p className="desc">
